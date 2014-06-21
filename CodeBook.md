@@ -1,15 +1,23 @@
-a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data 
+
 
 SubjectNumber:
+
 30 Subjects
 
 Activity:
+
 1	WALKING
+
 2	WALKING_UPSTAIRS
+
 3	WALKING_DOWNSTAIRS
+
 4	SITTING
+
 5	STANDING
+
 6	LAYING
+
 
 Data Explanation from original documentation in features_info.txt, available at web site:
 1.  Come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
