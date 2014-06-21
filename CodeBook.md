@@ -19,7 +19,7 @@ Activity:
 6	LAYING
 
 
-Data Explanation from original documentation in features_info.txt, available at web site:
+Data Explanation from original documentation in features_info.txt, available at web site (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones):
 
 1.  Come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 
